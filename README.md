@@ -1,2 +1,2 @@
 # swaraML
-Explore machine learning techniques to study music
+Explore machine learning techniques to study music.
